@@ -1,0 +1,26 @@
+{
+  "name": "트레킹 - GPS 등산 기록",
+  "short_name": "트레킹",
+  "description": "등산과 걷기 경로를 GPS로 기록하고 GPX 파일로 저장하는 앱",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a3a2a",
+  "theme_color": "#1a3a2a",
+  "orientation": "portrait",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["sports", "health", "navigation"]
+}
